@@ -1,0 +1,21 @@
+body
+{
+  background-color: orange;
+  text-align: center;
+  color: black;
+}
+.heading
+{
+    font-size: 48px;
+    border-radius: 90px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: darkgrey;
+    width: 75%;
+}
+#items
+{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
